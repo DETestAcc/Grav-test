@@ -18,4 +18,4 @@ deploy:
     pre-deployment-remote-commands:
 
     post-deployment-remote-commands:
-      - bin/grav install
+      
